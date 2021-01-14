@@ -6,7 +6,8 @@ const players = [
   { name: "Kyrie Irving", team: "Brooklyn Nets", age: 30, img: "kyrie-irving.jpg" },
   { name: "Jayson Tatum", team: "Boston Celtics", age: 23, img: "jayson-tatum.jpg" },
   { name: "Devin Booker", team: "Phoenix Suns", age: 24, img: "devin-booker.jpeg" }
-]
+];
+
 function App() {
   return (
     <div className="container">
