@@ -26,6 +26,7 @@ const App = () => {
             </div>
           })
         }
+        {/* create search bar */}
       </div>
     </div>
   );
