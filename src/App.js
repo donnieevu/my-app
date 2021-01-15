@@ -9,6 +9,7 @@ const players = [
 ];
 
 function App() {
+  console.log('hello')
   return (
     <div className="container">
       <div className="row">
