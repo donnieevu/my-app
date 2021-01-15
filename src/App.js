@@ -8,6 +8,7 @@ const players = [
   { name: "Devin Booker", team: "Phoenix Suns", age: 24, img: "devin-booker.jpeg" }
 ]
 function App() {
+  console.log('hello');
   return (
     <div className="container">
       <div className="row">
